@@ -1,0 +1,11 @@
+Projeto de ETL com python site olx.
+
+Esse projeto visa o retorno de todos os produtos que o usuario pesquisar.
+Contudo, precisamos acessar o estado que a pessoa buscar antes disso.
+
+Primeiros passos:
+Criar um script para entrar no site - Ok
+Criar um input para ele retornar qual produto o usuario quer pesquisar - OK
+Entender os elementos do site - 
+Trazer o nome do produto, preço, bairro e o link do produto - bairro eu não estou entendendo kkk
+gerar um .csv
