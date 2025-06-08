@@ -3,3 +3,6 @@
 .env/
 __pycache__/
 *.pyc
+
+#ignorando arquivo csv de teste:
+resultado.csv
