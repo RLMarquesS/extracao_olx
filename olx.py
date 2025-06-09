@@ -26,4 +26,7 @@ links = driver.find_elements(By.XPATH,"//a[@class='olx-adcard__link']")
 for produto,preco,link in zip(produtos,precos,links):
     with open('resultado.csv','a',encoding='utf-8') as arquivo:
         arquivo.write(f'{produto.text},{preco.text},{link.get_attribute("href")}{os.linesep}')
-input('')
+
+
+print('Sua cotação foi salva, obrigado!')
+driver.quit()
