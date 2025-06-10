@@ -4,5 +4,8 @@
 __pycache__/
 *.pyc
 
-#ignorando arquivo csv de teste:
+#teste:
 resultado.csv
+
+#features:
+features.txt

@@ -13,3 +13,8 @@ Este projeto é de minha autoria e tem como objetivo o estudo na área de dados,
 O projeto consiste em uma automação que realiza buscas de cotações no site da OLX, retornando os **50 primeiros preços** do produto solicitado pelo usuário.
 
 Após coletar os dados (nome do anúncio, preço e link), o programa os armazena em um **dataset**, onde o **Pandas** realiza um filtro, mantendo apenas os preços **abaixo da média**. Por fim, os dados são exportados para um **arquivo `.csv`** para análise posterior.
+
+## ⚠️ Avisos
+* Esse projeto foi desenvildo a fins educacionais.
+* O projeto está atualmente usando apenas o navegador mozilla firefox e pesquisando pelo estado do CE, nas novas versões viso melhorar isso.
+* Por enquanto ele retorna 50 arquivos e se limita apenas na primeira página. Isso deve ser resolvido nas próximas versões
