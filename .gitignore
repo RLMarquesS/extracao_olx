@@ -4,8 +4,9 @@
 __pycache__/
 *.pyc
 
-#teste:
+#testes:
 resultado.csv
+baixar_web_drivers.py
 
 #features:
 features.txt
